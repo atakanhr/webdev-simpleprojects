@@ -35,7 +35,10 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## Resimler
 
+![resim1](https://raw.githubusercontent.com/atakanhr/webdev-simpleprojects/master/urlshorter/github/images/image1.PNG)
+![resim2](https://raw.githubusercontent.com/atakanhr/webdev-simpleprojects/master/urlshorter/github/images/image2.PNG)
+![resim3](https://raw.githubusercontent.com/atakanhr/webdev-simpleprojects/master/urlshorter/github/images/image3.PNG)
 
 
-##Teşekkürler
+## Teşekkürler
 [EMİR (CSS)](https://github.com/emirkivrak)
