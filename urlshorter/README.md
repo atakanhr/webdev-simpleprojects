@@ -22,15 +22,16 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 2-)Vendor dosyaları için composer ile kurulum yapın
     
     composer install
-3-).env dosyasında veritabanı ayarlarınızı yapın. Yazılım veritabanı kullanmaktadır
+3-).env dosyasında veritabanı ayarlarınızı yapın. Yazılım veritabanı kullanmaktadır //.env dosyası projede yoktur onun yerine default dosyanın adını direk .env yapıp düzenleyin.
 
-4-)Veritabanı için yarattığımız kodları migrate edin
+
+5-)Veritabanı için yarattığımız kodları migrate edin
 
     php artisan migrate:install
-5-)Projeyi çalıştırın
+6-)Projeyi çalıştırın
     
     php artisan serve
-    
+6-)/urlshort sorgusu ile ulaşabilirsiniz. Örn: http://localhost.com/webdev-simpleprojects/urlshorter/shorter
 
 
 ## Resimler
