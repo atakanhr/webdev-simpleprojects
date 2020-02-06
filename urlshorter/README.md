@@ -25,10 +25,10 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 3-).env dosyasında veritabanı ayarlarınızı yapın. Yazılım veritabanı kullanmaktadır //.env dosyası projede yoktur onun yerine default dosyanın adını direk .env yapıp düzenleyin.
 
 
-5-)Veritabanı için yarattığımız kodları migrate edin
+4-)Veritabanı için yarattığımız kodları migrate edin
 
     php artisan migrate:install
-6-)Projeyi çalıştırın
+5-)Projeyi çalıştırın
     
     php artisan serve
 6-)/urlshort sorgusu ile ulaşabilirsiniz. Örn: http://localhost.com/webdev-simpleprojects/urlshorter/shorter
